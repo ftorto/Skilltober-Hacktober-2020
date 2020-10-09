@@ -16,7 +16,8 @@
   3. Come back to this <a href="https://github.com/RahulSharma099/Skilltober-Hacktober-2020"> Hacktoberfest repo</a>.
   4. Click on Fork.
   4. Open folder of your choice. (If it is not listed, feel free to add one, or simply go to others).
-
+  5. Your PR has been labeled as "invalid" or "spam" by a maintainer and won't count toward winning Hacktoberfest.
+  6. 2 or more spam pr will lead you to disqualification from Hacktoberfest.
   
 
 ` You need to make 4 pull requests to win an exclusive Hacktoberfest 2020 Tshirt and stickers! `
